@@ -1,0 +1,40 @@
+{
+   "chandigarh":[
+     {
+         "category": "CoVID-19 Testing Lab",
+         "city": "Chandigarh",
+         "contact": "http://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/home.jsp",
+         "descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+         "nameoftheorganisation": "Post Graduate Institute of Medical Education & Research",
+         "phonenumber": "1722747585",
+         "state": "Chandigarh"
+      },
+      {
+         "category": "CoVID-19 Testing Lab",
+         "city": "Chandigarh",
+         "contact": "https://gmch.gov.in/",
+         "descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+         "nameoftheorganisation": "Govt. Medical College",
+         "phonenumber": "1722601023",
+         "state": "Chandigarh"
+      },
+      {
+         "category": "Fundraisers",
+         "city": "Chandigarh",
+         "contact": "https://www.ourdemocracy.in/Campaign/Covid19reliefCHD",
+         "descriptionandorserviceprovided": "This campaign aims at providing relief to daily-wage workers in Chandigarh, Mohali and Panchkula who are affected by the lockdown.\nCities suported: Chandigarh, Mohali, Panchkula\nOther Links:\nhttps://www.instagram.com/chhotisiasha/\nhttps://www.facebook.com/pg/ChhotiSiAsha/about/",
+         "nameoftheorganisation": "Chhoti Si Asha",
+         "phonenumber": "9811604457",
+         "state": "Chandigarh"
+      },
+      {
+         "category": "Fundraisers",
+         "city": "Chandigarh",
+         "contact": "https://iamstillhuman.org/fightcoronavirus/",
+         "descriptionandorserviceprovided": "I Am Still Human is hosting a Fund Raiser to help underprivileged people living in the slum areas and roads who need help at this hour and are less aware of how important hygiene has become now out of all times. With the amount collected, we aim to provide them with Food and Ration, and some basic hygiene products like Masks, Soaps and Sanitizers.",
+         "nameoftheorganisation": "I Am Still Human",
+         "phonenumber": "8427912765",
+         "state": "Chandigarh"
+      }
+   ]
+}

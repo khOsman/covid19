@@ -1,0 +1,130 @@
+{
+   "bihar":[
+      {
+         "category": "CoVID-19 Testing Lab",
+         "city": "Darbhanga",
+         "contact": "https://dmch.in/",
+         "descriptionandorserviceprovided": "Government approved and supported testing lab by ICMR",
+         "nameoftheorganisation": "Darbhanga Medical College",
+         "phonenumber": "6272256203",
+         "state": "Bihar"
+      },
+      {
+         "category": "CoVID-19 Testing Lab",
+         "city": "Patna",
+         "contact": "http://www.igims.org/",
+         "descriptionandorserviceprovided": "Covid-19 testing",
+         "nameoftheorganisation": "Indira Gandhi Institute of Medical Sciences",
+         "phonenumber": "9801149243",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "District Control Room Helpline Number",
+         "nameoftheorganisation": "District Control Room",
+         "phonenumber": "6114223013,\n8544423133",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Makhdumpur",
+         "phonenumber": "8544421450",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Ratni Faridpur",
+         "phonenumber": "8544421446",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Kako",
+         "phonenumber": "8544421445",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Okari",
+         "phonenumber": "9470003334",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Jehanabad",
+         "phonenumber": "8544421451",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Ghoshi",
+         "phonenumber": "8544421444",
+         "state": "Bihar"
+      },
+      {
+         "category": "Government Helpline",
+         "city": "Jehanabad",
+         "contact": "http://jehanabad.nic.in",
+         "descriptionandorserviceprovided": "Block Control Room Helpline Number",
+         "nameoftheorganisation": "Block Control room for Hulasganj",
+         "phonenumber": "8544421447",
+         "state": "Bihar"
+      },
+      {
+         "category": "CoVID-19 Testing Lab",
+         "city": "Patna",
+         "contact": "https://www.rmrims.org.in/",
+         "descriptionandorserviceprovided": "Government approved and supported testing lab by ICMR",
+         "nameoftheorganisation": "Rajendra Memorial Research Institute of Medical Sciences",
+         "phonenumber": "6122636651",
+         "state": "Bihar"
+      },
+      {
+         "category": "Other",
+         "city": "Bihar Sharif",
+         "contact": "https://www.careindia.org/contact-us/",
+         "descriptionandorserviceprovided": "CARE a global humanitarian organization is working with partners across over ninety countries helping the most marginalised women and girls in the fight on COVID 19. CARE India has a 1400+ team working with Government of Bihar in supporting the government in contact tracing, monitoring, infection control, laboratory and hospital strengthening for fight COVID",
+         "nameoftheorganisation": "Care India",
+         "phonenumber": "6122274957,\n6122274389",
+         "state": "Bihar"
+      },
+      {
+         "category": "Other",
+         "city": "Muzzafarpur",
+         "contact": "",
+         "descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
+         "nameoftheorganisation": "Aakansha Seva Sadan",
+         "phonenumber": "9905443544",
+         "state": "Bihar"
+      },
+      {
+         "category": "Other",
+         "city": "PAN State",
+         "contact": "https://adithi.in/",
+         "descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
+         "nameoftheorganisation": "Adithi",
+         "phonenumber": "9934029353",
+         "state": "Bihar"
+      }
+   ]
+}
