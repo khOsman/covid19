@@ -4,7 +4,7 @@
 			 {"state":"Andhra Pradesh"}, 
 			 {"state":"Arunachal Pradesh"}, 
 			 {"state":"Assam",
-			 	"assam":[
+			 	"statedata":[
 					      {
 					         "category":"CoVID-19 Testing Lab",
 					         "city":"Dibrugarh",
@@ -710,7 +710,7 @@
 					   ]
 			 }, 
 			 {"state":"Bihar",
-			 		"bihar":[
+			 		"statedata":[
 					      {
 					         "category": "CoVID-19 Testing Lab",
 					         "city": "Darbhanga",
@@ -840,7 +840,7 @@
 					   ]
 			 }, 
 			 {"state":"Chandigarh",
-			 	 "chandigarh":[
+			 	 "statedata":[
 					     {
 					         "category": "CoVID-19 Testing Lab",
 					         "city": "Chandigarh",
